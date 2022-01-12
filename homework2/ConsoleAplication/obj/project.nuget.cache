@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P638ilJXY/njQ+GoXVF/wRxRg3SYO9X4slvQoTXS+X3PE4t432g04MN55UJW+XI8r+hMK1IDG4r7K5PKaOpg/A==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP_HOMEWORK\\C-Sharp\\2\\ConsoleAplication\\ConsoleAplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivans\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\ivans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ivans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ivans\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
