@@ -12,10 +12,10 @@ namespace ConsoleAplication
 
             int count = 10;
             Book[] books = new Book[count];
+
             Reader reader = new Reader("name", "surname", count, books);
 
-
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(author.ToString());
         }
     }
 }

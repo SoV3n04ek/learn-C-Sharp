@@ -67,12 +67,22 @@
             count--;
         }
 
-        public void print()
+        Book[] GetBooks()
         {
+            return books;
+        }
+
+        public override string ToString()
+        {
+            string arr = "";
+
             for (int i = 0; i < count; i++)
             {
-
+                arr += books[i].ToString();
             }
+
+            return "Name: "  + name + ",\n" + 
+                "Lastname: " + lastName + ",\n" + arr;
         }
     }
 
@@ -86,11 +96,11 @@
 
         public Book(int _id, string _name, Author _author, string _description, int _ISBN)
         {
-            id          = id;
-            name        = name;
-            author      = author;
-            description = description;
-            ISBN        = ISBN;
+            id          = _id;
+            name        = _name;
+            author      = _author;
+            description = _description;
+            ISBN        = _ISBN;
         }
 
         public Book(Book other)
@@ -100,6 +110,14 @@
             author      = other.author;
             description = other.description;
             ISBN        = other.ISBN;
+        }
+        public override string ToString()
+        {
+            return "Id: " + id.ToString() + ",\n" +
+                "Name: " + name + ",\n" +
+                "Author: \n" + author.ToString() + ",\n" +
+                "Description: " + description + ",\n" +
+                "ISBN: " + ISBN.ToString() + "\n";
         }
     }
 }  
