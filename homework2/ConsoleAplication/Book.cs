@@ -34,5 +34,34 @@
                 "Description: " + description + ",\n" +
                 "ISBN: " + ISBN.ToString() + "\n";
         }
+
+        public static bool operator ==(Book b1, Book b2)
+        {
+            if (b1 is null)
+                return b2 is null;
+
+            return b1.Equals(b2);
+        }
+
+        public static bool operator !=(Book b1, Book b2)
+        {
+            return !(b1 == b2);
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null)
+                return false;
+
+            return obj is Book b2 ? (id == b2.id &&
+                                   name == b2.name &&
+                                   description == b2.description) : false;
+
+        }
+
+        public override int GetHashCode()
+        {
+            return (id, name, description).GetHashCode();
+        }
     }
 }  

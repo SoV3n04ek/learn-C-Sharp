@@ -9,6 +9,8 @@ namespace ConsoleAplication
         {
             Author author = new Author("name", "surname", 1984);
             Book a = new Book(1, "Name", author, "Description", 17849102);
+            Book a2 = new Book(2, "Name", author, "Description", 17849102);
+
 
             Book[] books = {
               //  new Book(1, "Name", author, "Description", 17849102),
@@ -20,7 +22,12 @@ namespace ConsoleAplication
             author.name = "Alexey";
             reader.Add(new Book(2, "Name2", author, "Description ", 17849101));
 
+            
+
             Console.WriteLine(reader.ToString());
+
+            Console.WriteLine("\n\n");
+            Console.WriteLine(a == a2);
         }
     }
 }
