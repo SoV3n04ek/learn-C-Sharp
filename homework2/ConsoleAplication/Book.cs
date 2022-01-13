@@ -55,13 +55,15 @@
 
             return obj is Book b2 ? (id == b2.id &&
                                    name == b2.name &&
+                                   author == b2.author &&
+                                   ISBN == b2.ISBN &&
                                    description == b2.description) : false;
 
         }
 
         public override int GetHashCode()
         {
-            return (id, name, description).GetHashCode();
+            return (id, name, author, description, ISBN).GetHashCode();
         }
     }
 }  
