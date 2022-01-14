@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SQL_CRUD_AdoNet/1.0.0": {
+        "runtime": {
+          "SQL_CRUD_AdoNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SQL_CRUD_AdoNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

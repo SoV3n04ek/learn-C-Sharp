@@ -1,0 +1,15 @@
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\bin\Debug\net6.0\SQL_CRUD_AdoNet.exe
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\bin\Debug\net6.0\SQL_CRUD_AdoNet.deps.json
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\bin\Debug\net6.0\SQL_CRUD_AdoNet.runtimeconfig.json
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\bin\Debug\net6.0\SQL_CRUD_AdoNet.dll
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\bin\Debug\net6.0\ref\SQL_CRUD_AdoNet.dll
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\bin\Debug\net6.0\SQL_CRUD_AdoNet.pdb
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.csproj.AssemblyReference.cache
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.AssemblyInfoInputs.cache
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.AssemblyInfo.cs
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.csproj.CoreCompileInputs.cache
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.dll
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\ref\SQL_CRUD_AdoNet.dll
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.pdb
+D:\ITSTEP_HOMEWORK\C-Sharp\homework3\SQL_CRUD_AdoNet\SQL_CRUD_AdoNet\obj\Debug\net6.0\SQL_CRUD_AdoNet.genruntimeconfig.cache
