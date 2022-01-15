@@ -40,7 +40,6 @@
             return obj is Author b2 ? (name == b2.name &&
                                    lastName == b2.lastName &&
                                    birthdayYear == b2.birthdayYear) : false;
-
         }
 
         public override int GetHashCode()
